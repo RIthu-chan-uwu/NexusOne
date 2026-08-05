@@ -1,1 +1,4 @@
+# Frontend Architecture
+
+Content coming soon.
 
